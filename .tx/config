@@ -1,0 +1,12 @@
+[main]
+host = https://www.transifex.com
+
+[o:orchid:p:orchid:r:test]
+file_filter   = src/lib/assets/i18n/<lang>.json
+source_file   = src/lib/assets/i18n/en-US.json
+type          = KEYVALUEJSON
+minimum_perc  = 0
+resource_name = en_US
+lang_map = pt_BR: pt-BR, en_US: en-US, el_GR: el-GR, es_MX: es-MX, es_CL: es-CL, es_EC: es-EC, de_DE: de-DE
+token = 1/00e24378366ca42dc38cc9a0752844c69d361145
+

@@ -1,0 +1,41 @@
+{
+    "common": {
+      "auth": {
+        "login": {
+          "headerTitle": "Login",
+          "headerDescription": "Please login first, in order to place your bet",
+          "headerSubtitle": "Please login first, in order to see our promotions",
+          "headerRegistrationSubText": "or",
+          "registerMessage": "New Customer?",
+          "inputs": {
+            "username": "Username",
+            "usernameBR": "Username, Email or Phone",
+            "password": "Password",
+            "rememberMe": "Remember Me"
+          },
+          "buttons": {
+            "login": "Login"
+          },
+          "links": {
+            "passwordRecovery": "Forgot Password",
+            "register": "Register"
+          }
+        },
+        "passwordRecovery": {
+          "headerTitle": "Password Recovery",
+          "tab1": {
+            "title": "Forgot Your Password?",
+            "subtitle": "Enter your Username to receive your password.",
+            "inputUsernamePlaceholder": "Username",
+            "inputEmailCaption": "Email",
+            "inputEmailPlaceholder": "Email",
+            "nextButton": "Send"
+          }
+        },
+        "register": {
+          "registerText": "New Customer?",
+          "registerButton": "Sign up here!"
+        }
+      }
+    }
+  }

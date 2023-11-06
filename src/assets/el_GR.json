@@ -1,0 +1,42 @@
+{
+    "common": {
+      "auth": {
+        "login": {
+          "headerTitle": "εισοδοσ",
+          "headerTitleTest": "τιτλοσ",
+          "headerDescription": "βδγφγηδφη",
+          "headerSubtitle": "ηγδφηδφγη",
+          "headerRegistrationSubText": "νηγνγνγ",
+          "registerMessage": "ωαψδσσα",
+          "inputs": {
+            "username": "νηγμνδτηνξδν",
+            "usernameBR": "ψεςεεςςερς",
+            "password": "νννννν",
+            "rememberMe": "ββββ"
+          },
+          "buttons": {
+            "login": "ωωωωω"
+          },
+          "links": {
+            "passwordRecovery": "ψψψψ",
+            "register": "χχχχ"
+          }
+        },
+        "passwordRecovery": {
+          "headerTitle": "ζζζζ",
+          "tab1": {
+            "title": "σσσ",
+            "subtitle": "δδ",
+            "inputUsernamePlaceholder": "ρρρ",
+            "inputEmailCaption": "Email",
+            "inputEmailPlaceholder": "Email",
+            "nextButton": "Send"
+          }
+        },
+        "register": {
+          "registerText": "New Customer?",
+          "registerButton": "Sign up here!"
+        }
+      }
+    }
+  }

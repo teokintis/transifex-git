@@ -2,8 +2,8 @@
 host = https://www.transifex.com
 
 [o:orchid:p:orchid:r:test]
-file_filter   = src/lib/assets/i18n/<lang>.json
-source_file   = src/lib/assets/i18n/en-US.json
+file_filter   = src/assets/<lang>.json
+source_file   = src/assets/en-US.json
 type          = KEYVALUEJSON
 minimum_perc  = 0
 resource_name = en_US

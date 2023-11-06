@@ -1,13 +1,13 @@
 git:
-filters:
-- filter_type: file
-  file_format: KEYVALUEJSON
-  source_language: en_US
-  source_file: 'src/assets/en-US.json'
-  translation_files_expression: 'src/assets/<lang>.json'
+  filters:
+    - filter_type: file
+      file_format: KEYVALUEJSON
+      source_language: en_US
+      source_file: 'src/assets/en-US.json'
+      translation_files_expression: 'src/assets/<lang>.json'
 
 settings:
-pr_branch_name: dev
+pr_branch_name: tx_translations_<br_unique_id>
 language_mapping:
 pt_BR: pt-BR
 en_US: en-US

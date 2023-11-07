@@ -3,6 +3,7 @@
       "auth": {
         "login": {
           "headerTitle": "εισοδοσ",
+          "headerTitle2": "headerTitle2",
           "headerTitleTest": "τιτλοσ",
           "headerDescription": "βδγφγηδφη",
           "headerSubtitle": "ηγδφηδφγη",
